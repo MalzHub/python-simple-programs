@@ -12,7 +12,7 @@ while True:
           stop - to stop the car
           quit - to quit
           """)
-  elif command == :quit":
+  elif command == "quit":
     break
   else:
     print("Sorry, I dont understand!!!!!")
